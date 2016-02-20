@@ -1,5 +1,5 @@
 <?php
-$servername = "ProjWorkRDS123.ci4jsdvwnfcw.us-east-1.rds.amazonaws.com";
+$servername = "projworkrds123.clrmluzpx2iu.us-east-1.rds.amazonaws.com";
 $username = "ProjWorkRDS123";
 $password = "ProjWorkRDS123";
 $dbname = "ProjWorkDB123";
